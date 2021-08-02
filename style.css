@@ -1,0 +1,17 @@
+.heading{
+    background-color: blueviolet;
+    font-size: large;
+    width: 100%;
+    box-shadow: cornflowerblue;
+}
+.heading_div2{
+    font-size: 20px;
+    box-shadow:15px,15px,15px rgb(151, 228, 151);
+    
+}
+.result_para_tag{
+    background-color: rgb(65, 12, 116);
+}
+canvas{
+    margin-top: 150px;
+}
